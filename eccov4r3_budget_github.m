@@ -78,8 +78,8 @@ clear mskc mskcp1 mskb geoflx2d
 
 %%%%%
 % define directories where outputs are
-% this code assumes you have filled these two 
-% subdirectories with the relevant "nctiles" model
+% this code assumes you have yourself created these subdirectories
+% within the base directory, and filled them with the relevant "nctiles" model
 % output files, as described in README and downloadable
 % from https://web.corral.tacc.utexas.edu/OceanProjects/ECCO/ECCOv4/Release3/nctiles_monthly/
 % and https://web.corral.tacc.utexas.edu/OceanProjects/ECCO/ECCOv4/Release3/nctiles_monthly_snapshots/
